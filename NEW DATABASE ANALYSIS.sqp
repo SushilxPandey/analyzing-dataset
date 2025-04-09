@@ -1,0 +1,5 @@
+CREATE DATABASE new_analysis;
+
+CREATE TABLE data_analysis(
+ID INT auto_increment PRIMARY KEY NOT NULL
+);
